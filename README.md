@@ -17,7 +17,8 @@
 
 ## About The Project
 
-![Screen Shot](images/screenshot.png)
+<img src="Images/SS1.jpg" alt="Screenshot 1">
+<img src="Images/SS2.jpg" alt="Screenshot 2">
 
 This bot uses Discord Developer Portal and OpenAI API to generate human-like responses to natural language input in a discord server!
 
