@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/NoriahM/chatGPT-Discord-Bot">
-    <img src="Images/logo.png" alt="Logo" width="80" height="80">
+    <img src="Images/logo.png" alt="Logo" width="80" height="80" background-color="#0000ffff" >
   </a>
 
   <h3 align="center">chatGPT Discord Bot </h3>
